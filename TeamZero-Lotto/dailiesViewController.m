@@ -46,6 +46,7 @@
     [_pkrNumberPicker setHidden:YES];
     _btnPlay.enabled = NO;
     [_swtQuickPick setOn:NO animated:YES];
+    //[_pkrNumberPicker setValue:[UIColor whiteColor] forKey:@"textColor"];
     
 }
 
